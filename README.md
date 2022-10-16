@@ -1,4 +1,5 @@
 # git_session
 
 
-Hello the forst line added
+Hello the first line added
+second line too!
